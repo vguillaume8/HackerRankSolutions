@@ -1,2 +1,5 @@
 # HackerRankSolutions
-Hackerrank.com coding solutions
+My Hackerrank.com coding solutions
+
+- Balanced Brackets
+- Sock Merchant
