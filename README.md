@@ -10,3 +10,4 @@ Warmups:
 Arrays:
 
 - Left Rotation
+- Bubble Sort
